@@ -1,0 +1,23 @@
+{
+  "name": "baidu_top_search_spider",
+  "version": "1.0.0",
+  "description": "spider to get baidu search top ten words",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "spider",
+    "baidu",
+    "top",
+    "words",
+    "search",
+    "top"
+  ],
+  "author": "89",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
