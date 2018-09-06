@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "spider to get baidu search top ten words",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/89466598946659/baidu_top_search_spider"
+  },
   "scripts": {
     "test": "npm run dev"
   },
