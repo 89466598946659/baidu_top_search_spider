@@ -1,4 +1,2 @@
-exports.desc = function() {
-
-	console.log('test');
-}
+const top = require('./lib/index.js');
+top();
